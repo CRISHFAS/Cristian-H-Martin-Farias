@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Soy,+Cristian+Farias;Frontend+Developer+%26+UI+Designer;Misiones,+Argentina)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Soy,+Cristian;Frontend+Developer+%26+UI+Designer;Ubicado+en+Misiones,+Argentina)](https://git.io/typing-svg)
 
 </div>
 
