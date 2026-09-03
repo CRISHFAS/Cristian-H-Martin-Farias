@@ -12,8 +12,6 @@ Actualmente armando mi propio estudio de desarrollo y diseño web.</p><br>
 
 ---
 
-## Stack
-
 <div align="center">
   
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,12 +29,10 @@ Actualmente armando mi propio estudio de desarrollo y diseño web.</p><br>
 
 ---
 
-## Proyectos
- 
-Proyectos de portfolio — todos deployados y funcionando.
- 
+## Últimos Proyectos
+
 ---
- 
+  
 ### SteelCore — Industrial Web Experience
 > Experiencia web industrial moderna enfocada en automatización, ingeniería y energías renovables. Implementación de UI responsive, motion design y branding visual.
  
@@ -97,17 +93,17 @@ Escribo sobre JavaScript, patrones de diseño y buenas prácticas en mi blog.
 - JavaScript(Basic) — [HackerRank](https://www.hackerrank.com/certificates/iframe/f4d83467abb1)
 ---
  
-## Cuando no estoy programando...
+## Cuando no estoy programando suelo estar...
 
 <div align="center">
 
-| Toco la Batería | Toco el Bajo | Hago Arte en Metal |
+| Tocando la Batería, | Tocando el Bajo o | Haciendo Arte en Metal |
 |:---:|:---:|:---:|
 | <img src="https://res.cloudinary.com/dqmeq067u/image/upload/v1778543913/drum-hobbie_ggxieh.jpg" width="200" height="200" style="object-fit:cover"/> | <img src="https://res.cloudinary.com/dqmeq067u/image/upload/v1778543832/bass-hobbie_ufbomc.jpg" width="200" height="200" style="object-fit:cover"/> | <img src="https://res.cloudinary.com/dqmeq067u/image/upload/v1778544555/metal-art-hobbie_ifizcf.jpg" width="200" height="200" style="object-fit:cover"/> |
 
 </div>
 
-- Además Juego al básquet y al fútbol
+- Y no puede faltar mis dos pasiones de la infancia; el Fútbol ⚽ y el Basquet 🏀 
 
 ---
 
