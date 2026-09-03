@@ -40,48 +40,42 @@ Proyectos de portfolio — todos deployados y funcionando.
 ### SteelCore — Industrial Web Experience
 > Experiencia web industrial moderna enfocada en automatización, ingeniería y energías renovables. Implementación de UI responsive, motion design y branding visual.
  
-**Stack:** Webflow · HTML5 · CSS3 · JavaScript  
-🔗 [Ver sitio](https://steel-core.netlify.app/)
+[Ver sitio](https://steel-core.netlify.app/)
  
 ---
  
 ### Editor Markdown Online
 > Editor moderno, interactivo y en tiempo real para escribir y previsualizar Markdown desde el navegador.
  
-**Stack:** Next.js · React · Tailwind CSS  
-🔗 [Ver sitio](https://editor-markdown-rho.vercel.app/) · [Ver código](https://github.com/CRISHFAS/Editor-Markdown)
+[Ver sitio](https://editor-markdown-rho.vercel.app/) · [Ver código](https://github.com/CRISHFAS/Editor-Markdown)
  
 ---
  
 ### AXON Estudio — Arquitectura y Construcción
 > Sitio web completo para estudio de arquitectura. Énfasis en diseño visual, galería de proyectos y experiencia de usuario cuidada.
  
-**Stack:** HTML5 · CSS3 · JavaScript  
-🔗 [Ver sitio](https://axon-estudio.netlify.app/)
+[Ver sitio](https://axon-estudio.netlify.app/)
  
 ---
  
 ### COTA ARQS — Estudio de Arquitectura
 > Presencia web que refleja la filosofía del estudio: diseño que define espacios, arquitectura que inspira vidas.
  
-**Stack:** HTML5 · CSS3 · JavaScript  
-🔗 [Ver sitio](https://cota-arqs.netlify.app/)
+[Ver sitio](https://cota-arqs.netlify.app/)
  
 ---
  
 ### Caballo de Hierro — Taller Mecánico
 > Sitio para taller mecánico con performance optimizada, integración de formularios (Formspree + Mailchimp), sistema de comentarios (Disqus) y mejoras de SEO y accesibilidad.
  
-**Stack:** HTML5 · CSS3 · JavaScript  
-🔗 [Ver sitio](https://caballo-de-hierro.netlify.app/)
+[Ver sitio](https://caballo-de-hierro.netlify.app/)
  
 ---
  
 ### El Filo — Barbería
 > Sitio para barbería con sliders, carrusel e interacciones dinámicas.
  
-**Stack:** HTML5 · CSS3 · JavaScript · jQuery  
-🔗 [Ver sitio](https://el-filo.netlify.app/)
+[Ver sitio](https://el-filo.netlify.app/)
  
 ---
 ## Publicaciones técnicas
