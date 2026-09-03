@@ -103,7 +103,7 @@ Escribo sobre JavaScript, patrones de diseño y buenas prácticas en mi blog.
 
 </div>
 
-- Y no puede faltar mis dos pasiones de la infancia; el Fútbol ⚽ y el Basquet 🏀 
+Y no puede faltar mis dos pasiones de la infancia; el Fútbol ⚽ y el Basquet 🏀 
 
 ---
 
